@@ -1,1 +1,1 @@
-ECHO is on.
+document.querySelector('.btn11').addEventListener('click', () => console.log('button was clicked'))
